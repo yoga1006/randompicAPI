@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  randompicAPI
 //
-//  Created by 王鈞則 on 2022/9/30.
+//  Created by Yoga on 2022/9/30.
 //
 
 import UIKit
